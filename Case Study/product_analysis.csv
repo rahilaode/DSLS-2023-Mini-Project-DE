@@ -1,0 +1,1060 @@
+﻿OrderDate;ProductName;Category;Quantity
+1997-01-01 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;21
+1997-01-01 00:00:00.000;Steeleye Stout;Beverages;35
+1997-01-01 00:00:00.000;Maxilaku;Confections;30
+1997-01-01 00:00:00.000;Nord-Ost Matjeshering;Seafood;18
+1997-01-01 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;70
+1997-01-01 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;20
+1997-01-01 00:00:00.000;Flotemysost;Dairy Products;60
+1997-01-02 00:00:00.000;Tunnbröd;Grains/Cereals;60
+1997-01-02 00:00:00.000;Vegie-spread;Condiments;65
+1997-01-03 00:00:00.000;Pavlova;Confections;21
+1997-01-03 00:00:00.000;Chocolade;Confections;70
+1997-01-03 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-01-03 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;40
+1997-01-03 00:00:00.000;Maxilaku;Confections;30
+1997-01-06 00:00:00.000;Aniseed Syrup;Condiments;50
+1997-01-07 00:00:00.000;Chai;Beverages;10
+1997-01-07 00:00:00.000;Sir Rodney's Scones;Confections;30
+1997-01-07 00:00:00.000;Rössle Sauerkraut;Produce;42
+1997-01-07 00:00:00.000;Inlagd Sill;Seafood;5
+1997-01-07 00:00:00.000;Boston Crab Meat;Seafood;2
+1997-01-07 00:00:00.000;Queso Cabrales;Dairy Products;30
+1997-01-07 00:00:00.000;Gudbrandsdalsost;Dairy Products;15
+1997-01-07 00:00:00.000;Flotemysost;Dairy Products;15
+1997-01-08 00:00:00.000;Gravad lax;Seafood;10
+1997-01-08 00:00:00.000;Tourtière;Meat/Poultry;6
+1997-01-08 00:00:00.000;Tarte au sucre;Confections;35
+1997-01-09 00:00:00.000;Tofu;Produce;12
+1997-01-09 00:00:00.000;Sir Rodney's Scones;Confections;12
+1997-01-10 00:00:00.000;Geitost;Dairy Products;49
+1997-01-10 00:00:00.000;Raclette Courdavault;Dairy Products;16
+1997-01-10 00:00:00.000;Jack's New England Clam Chowder;Seafood;25
+1997-01-10 00:00:00.000;Gula Malacca;Condiments;40
+1997-01-10 00:00:00.000;Raclette Courdavault;Dairy Products;9
+1997-01-13 00:00:00.000;Tofu;Produce;20
+1997-01-14 00:00:00.000;Chai;Beverages;24
+1997-01-14 00:00:00.000;Tarte au sucre;Confections;40
+1997-01-14 00:00:00.000;Lakkalikööri;Beverages;14
+1997-01-14 00:00:00.000;Teatime Chocolate Biscuits;Confections;18
+1997-01-14 00:00:00.000;Geitost;Dairy Products;50
+1997-01-15 00:00:00.000;Alice Mutton;Meat/Poultry;2
+1997-01-15 00:00:00.000;Geitost;Dairy Products;20
+1997-01-16 00:00:00.000;Teatime Chocolate Biscuits;Confections;20
+1997-01-16 00:00:00.000;Perth Pasties;Meat/Poultry;10
+1997-01-16 00:00:00.000;Ravioli Angelo;Grains/Cereals;20
+1997-01-16 00:00:00.000;Côte de Blaye;Beverages;50
+1997-01-16 00:00:00.000;Spegesild;Seafood;2
+1997-01-16 00:00:00.000;Scottish Longbreads;Confections;36
+1997-01-16 00:00:00.000;Original Frankfurter grüne Soße;Condiments;35
+1997-01-17 00:00:00.000;Chang;Beverages;60
+1997-01-17 00:00:00.000;Zaanse koeken;Confections;55
+1997-01-17 00:00:00.000;Sirop d'érable;Condiments;16
+1997-01-17 00:00:00.000;Longlife Tofu;Produce;15
+1997-01-20 00:00:00.000;Camembert Pierrot;Dairy Products;60
+1997-01-20 00:00:00.000;Gudbrandsdalsost;Dairy Products;20
+1997-01-21 00:00:00.000;Mishi Kobe Niku;Meat/Poultry;20
+1997-01-21 00:00:00.000;Konbu;Seafood;2
+1997-01-21 00:00:00.000;Outback Lager;Beverages;8
+1997-01-21 00:00:00.000;Röd Kaviar;Seafood;20
+1997-01-21 00:00:00.000;Teatime Chocolate Biscuits;Confections;4
+1997-01-21 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-01-21 00:00:00.000;Perth Pasties;Meat/Poultry;15
+1997-01-21 00:00:00.000;Original Frankfurter grüne Soße;Condiments;10
+1997-01-22 00:00:00.000;Gumbär Gummibärchen;Confections;2
+1997-01-23 00:00:00.000;Gorgonzola Telino;Dairy Products;14
+1997-01-23 00:00:00.000;Raclette Courdavault;Dairy Products;20
+1997-01-23 00:00:00.000;Steeleye Stout;Beverages;60
+1997-01-23 00:00:00.000;Côte de Blaye;Beverages;49
+1997-01-23 00:00:00.000;Scottish Longbreads;Confections;30
+1997-01-24 00:00:00.000;Pâté chinois;Meat/Poultry;10
+1997-01-24 00:00:00.000;Lakkalikööri;Beverages;20
+1997-01-27 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;5
+1997-01-27 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;7
+1997-01-27 00:00:00.000;Tofu;Produce;35
+1997-01-28 00:00:00.000;Spegesild;Seafood;20
+1997-01-29 00:00:00.000;Valkoinen suklaa;Confections;40
+1997-01-29 00:00:00.000;Vegie-spread;Condiments;35
+1997-01-30 00:00:00.000;Alice Mutton;Meat/Poultry;45
+1997-01-30 00:00:00.000;Sir Rodney's Scones;Confections;50
+1997-01-30 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-01-30 00:00:00.000;Raclette Courdavault;Dairy Products;70
+1997-01-30 00:00:00.000;Alice Mutton;Meat/Poultry;50
+1997-01-30 00:00:00.000;Boston Crab Meat;Seafood;50
+1997-01-30 00:00:00.000;Zaanse koeken;Confections;30
+1997-01-31 00:00:00.000;Gumbär Gummibärchen;Confections;10
+1997-01-31 00:00:00.000;Tourtière;Meat/Poultry;40
+1997-02-03 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;28
+1997-02-03 00:00:00.000;Queso Cabrales;Dairy Products;6
+1997-02-03 00:00:00.000;Lakkalikööri;Beverages;18
+1997-02-04 00:00:00.000;Chang;Beverages;10
+1997-02-04 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;12
+1997-02-04 00:00:00.000;Mozzarella di Giovanni;Dairy Products;10
+1997-02-05 00:00:00.000;Spegesild;Seafood;5
+1997-02-05 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;40
+1997-02-05 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;30
+1997-02-05 00:00:00.000;Rhönbräu Klosterbier;Beverages;24
+1997-02-05 00:00:00.000;Perth Pasties;Meat/Poultry;15
+1997-02-06 00:00:00.000;Teatime Chocolate Biscuits;Confections;15
+1997-02-06 00:00:00.000;Sasquatch Ale;Beverages;20
+1997-02-06 00:00:00.000;Ravioli Angelo;Grains/Cereals;15
+1997-02-07 00:00:00.000;Queso Manchego La Pastora;Dairy Products;15
+1997-02-07 00:00:00.000;Pavlova;Confections;16
+1997-02-07 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;6
+1997-02-07 00:00:00.000;Longlife Tofu;Produce;30
+1997-02-10 00:00:00.000;Chang;Beverages;45
+1997-02-10 00:00:00.000;Pavlova;Confections;49
+1997-02-10 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;24
+1997-02-10 00:00:00.000;Sirop d'érable;Condiments;90
+1997-02-10 00:00:00.000;Schoggi Schokolade;Confections;50
+1997-02-11 00:00:00.000;Queso Cabrales;Dairy Products;30
+1997-02-11 00:00:00.000;Tourtière;Meat/Poultry;80
+1997-02-11 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;60
+1997-02-12 00:00:00.000;Queso Cabrales;Dairy Products;6
+1997-02-12 00:00:00.000;Rössle Sauerkraut;Produce;12
+1997-02-12 00:00:00.000;Alice Mutton;Meat/Poultry;10
+1997-02-12 00:00:00.000;Gumbär Gummibärchen;Confections;15
+1997-02-12 00:00:00.000;Steeleye Stout;Beverages;8
+1997-02-12 00:00:00.000;Jack's New England Clam Chowder;Seafood;30
+1997-02-13 00:00:00.000;Chartreuse verte;Beverages;6
+1997-02-13 00:00:00.000;Tourtière;Meat/Poultry;15
+1997-02-14 00:00:00.000;Teatime Chocolate Biscuits;Confections;12
+1997-02-14 00:00:00.000;Guaraná Fantástica;Beverages;20
+1997-02-14 00:00:00.000;Gorgonzola Telino;Dairy Products;3
+1997-02-14 00:00:00.000;Filo Mix;Grains/Cereals;15
+1997-02-14 00:00:00.000;Teatime Chocolate Biscuits;Confections;40
+1997-02-14 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;35
+1997-02-14 00:00:00.000;Flotemysost;Dairy Products;2
+1997-02-17 00:00:00.000;Gumbär Gummibärchen;Confections;6
+1997-02-17 00:00:00.000;Boston Crab Meat;Seafood;20
+1997-02-18 00:00:00.000;Ikura;Seafood;14
+1997-02-18 00:00:00.000;Filo Mix;Grains/Cereals;20
+1997-02-18 00:00:00.000;Tarte au sucre;Confections;35
+1997-02-19 00:00:00.000;Ikura;Seafood;20
+1997-02-19 00:00:00.000;Tourtière;Meat/Poultry;6
+1997-02-19 00:00:00.000;Pâté chinois;Meat/Poultry;120
+1997-02-19 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;35
+1997-02-19 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;28
+1997-02-19 00:00:00.000;Original Frankfurter grüne Soße;Condiments;55
+1997-02-20 00:00:00.000;Rössle Sauerkraut;Produce;15
+1997-02-20 00:00:00.000;Gula Malacca;Condiments;100
+1997-02-21 00:00:00.000;Chocolade;Confections;15
+1997-02-21 00:00:00.000;Outback Lager;Beverages;25
+1997-02-21 00:00:00.000;Pavlova;Confections;20
+1997-02-21 00:00:00.000;Geitost;Dairy Products;20
+1997-02-21 00:00:00.000;Spegesild;Seafood;10
+1997-02-24 00:00:00.000;Chartreuse verte;Beverages;20
+1997-02-24 00:00:00.000;Perth Pasties;Meat/Poultry;50
+1997-02-24 00:00:00.000;Sirop d'érable;Condiments;25
+1997-02-24 00:00:00.000;Flotemysost;Dairy Products;30
+1997-02-25 00:00:00.000;Sir Rodney's Scones;Confections;40
+1997-02-25 00:00:00.000;Maxilaku;Confections;21
+1997-02-25 00:00:00.000;Raclette Courdavault;Dairy Products;36
+1997-02-26 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-02-26 00:00:00.000;Rössle Sauerkraut;Produce;30
+1997-02-26 00:00:00.000;Ipoh Coffee;Beverages;20
+1997-02-26 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;15
+1997-02-26 00:00:00.000;Flotemysost;Dairy Products;50
+1997-02-27 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;16
+1997-02-27 00:00:00.000;Spegesild;Seafood;20
+1997-02-27 00:00:00.000;Mozzarella di Giovanni;Dairy Products;40
+1997-02-28 00:00:00.000;Scottish Longbreads;Confections;21
+1997-02-28 00:00:00.000;Rhönbräu Klosterbier;Beverages;4
+1997-02-28 00:00:00.000;Sir Rodney's Scones;Confections;40
+1997-02-28 00:00:00.000;Nord-Ost Matjeshering;Seafood;28
+1997-02-28 00:00:00.000;Pâté chinois;Meat/Poultry;60
+1997-03-03 00:00:00.000;Konbu;Seafood;1
+1997-03-03 00:00:00.000;Tunnbröd;Grains/Cereals;21
+1997-03-04 00:00:00.000;Teatime Chocolate Biscuits;Confections;21
+1997-03-04 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;50
+1997-03-04 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;16
+1997-03-04 00:00:00.000;Ipoh Coffee;Beverages;3
+1997-03-04 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-03-04 00:00:00.000;Camembert Pierrot;Dairy Products;20
+1997-03-05 00:00:00.000;Guaraná Fantástica;Beverages;25
+1997-03-05 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;18
+1997-03-05 00:00:00.000;Boston Crab Meat;Seafood;20
+1997-03-05 00:00:00.000;Rogede sild;Seafood;30
+1997-03-05 00:00:00.000;Valkoinen suklaa;Confections;25
+1997-03-06 00:00:00.000;Queso Cabrales;Dairy Products;10
+1997-03-06 00:00:00.000;Spegesild;Seafood;5
+1997-03-06 00:00:00.000;Guaraná Fantástica;Beverages;28
+1997-03-06 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;12
+1997-03-07 00:00:00.000;Nord-Ost Matjeshering;Seafood;8
+1997-03-07 00:00:00.000;Ipoh Coffee;Beverages;15
+1997-03-10 00:00:00.000;Chang;Beverages;40
+1997-03-10 00:00:00.000;Pavlova;Confections;35
+1997-03-10 00:00:00.000;Gula Malacca;Condiments;2
+1997-03-11 00:00:00.000;Carnarvon Tigers;Seafood;30
+1997-03-11 00:00:00.000;Tunnbröd;Grains/Cereals;15
+1997-03-11 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;8
+1997-03-11 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;30
+1997-03-11 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;20
+1997-03-12 00:00:00.000;Guaraná Fantástica;Beverages;80
+1997-03-12 00:00:00.000;Manjimup Dried Apples;Produce;18
+1997-03-13 00:00:00.000;Geitost;Dairy Products;12
+1997-03-13 00:00:00.000;Flotemysost;Dairy Products;12
+1997-03-13 00:00:00.000;Tofu;Produce;12
+1997-03-13 00:00:00.000;Rössle Sauerkraut;Produce;18
+1997-03-13 00:00:00.000;Boston Crab Meat;Seafood;21
+1997-03-13 00:00:00.000;Rhönbräu Klosterbier;Beverages;10
+1997-03-14 00:00:00.000;Gorgonzola Telino;Dairy Products;35
+1997-03-14 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;60
+1997-03-14 00:00:00.000;Lakkalikööri;Beverages;42
+1997-03-17 00:00:00.000;Pâté chinois;Meat/Poultry;2
+1997-03-17 00:00:00.000;Outback Lager;Beverages;12
+1997-03-17 00:00:00.000;Chai;Beverages;15
+1997-03-17 00:00:00.000;Sir Rodney's Scones;Confections;21
+1997-03-17 00:00:00.000;Chartreuse verte;Beverages;20
+1997-03-18 00:00:00.000;Ikura;Seafood;20
+1997-03-19 00:00:00.000;Côte de Blaye;Beverages;30
+1997-03-19 00:00:00.000;Perth Pasties;Meat/Poultry;28
+1997-03-19 00:00:00.000;Raclette Courdavault;Dairy Products;60
+1997-03-19 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;30
+1997-03-20 00:00:00.000;Zaanse koeken;Confections;30
+1997-03-20 00:00:00.000;Raclette Courdavault;Dairy Products;12
+1997-03-20 00:00:00.000;Maxilaku;Confections;24
+1997-03-20 00:00:00.000;Camembert Pierrot;Dairy Products;40
+1997-03-21 00:00:00.000;Boston Crab Meat;Seafood;10
+1997-03-24 00:00:00.000;Sasquatch Ale;Beverages;35
+1997-03-24 00:00:00.000;Original Frankfurter grüne Soße;Condiments;30
+1997-03-24 00:00:00.000;Sir Rodney's Scones;Confections;14
+1997-03-24 00:00:00.000;Boston Crab Meat;Seafood;10
+1997-03-24 00:00:00.000;Manjimup Dried Apples;Produce;3
+1997-03-25 00:00:00.000;Chang;Beverages;20
+1997-03-25 00:00:00.000;Aniseed Syrup;Condiments;20
+1997-03-25 00:00:00.000;Pâté chinois;Meat/Poultry;30
+1997-03-25 00:00:00.000;Outback Lager;Beverages;60
+1997-03-26 00:00:00.000;Queso Cabrales;Dairy Products;5
+1997-03-26 00:00:00.000;Manjimup Dried Apples;Produce;25
+1997-03-26 00:00:00.000;Longlife Tofu;Produce;16
+1997-03-26 00:00:00.000;Teatime Chocolate Biscuits;Confections;5
+1997-03-26 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-03-26 00:00:00.000;Tourtière;Meat/Poultry;24
+1997-03-27 00:00:00.000;Raclette Courdavault;Dairy Products;30
+1997-03-27 00:00:00.000;Röd Kaviar;Seafood;20
+1997-03-28 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-03-28 00:00:00.000;Pavlova;Confections;18
+1997-03-31 00:00:00.000;Raclette Courdavault;Dairy Products;60
+1997-03-31 00:00:00.000;Scottish Longbreads;Confections;30
+1997-03-31 00:00:00.000;Rhönbräu Klosterbier;Beverages;36
+1997-03-31 00:00:00.000;Gula Malacca;Condiments;15
+1997-03-31 00:00:00.000;Original Frankfurter grüne Soße;Condiments;7
+1997-04-01 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;60
+1997-04-01 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;20
+1997-04-02 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;15
+1997-04-02 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;10
+1997-04-02 00:00:00.000;Gudbrandsdalsost;Dairy Products;10
+1997-04-02 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-04-03 00:00:00.000;Tunnbröd;Grains/Cereals;10
+1997-04-03 00:00:00.000;Jack's New England Clam Chowder;Seafood;20
+1997-04-03 00:00:00.000;Original Frankfurter grüne Soße;Condiments;5
+1997-04-04 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-04-04 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;14
+1997-04-04 00:00:00.000;Mozzarella di Giovanni;Dairy Products;25
+1997-04-04 00:00:00.000;Original Frankfurter grüne Soße;Condiments;25
+1997-04-07 00:00:00.000;Guaraná Fantástica;Beverages;14
+1997-04-07 00:00:00.000;Boston Crab Meat;Seafood;5
+1997-04-07 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;30
+1997-04-08 00:00:00.000;Rössle Sauerkraut;Produce;20
+1997-04-08 00:00:00.000;Maxilaku;Confections;25
+1997-04-09 00:00:00.000;Genen Shouyu;Condiments;12
+1997-04-09 00:00:00.000;Rössle Sauerkraut;Produce;8
+1997-04-09 00:00:00.000;Tourtière;Meat/Poultry;20
+1997-04-10 00:00:00.000;Rogede sild;Seafood;21
+1997-04-10 00:00:00.000;Perth Pasties;Meat/Poultry;6
+1997-04-10 00:00:00.000;Laughing Lumberjack Lager;Beverages;30
+1997-04-11 00:00:00.000;Tofu;Produce;70
+1997-04-11 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;20
+1997-04-11 00:00:00.000;Chang;Beverages;12
+1997-04-11 00:00:00.000;Sir Rodney's Scones;Confections;12
+1997-04-11 00:00:00.000;Perth Pasties;Meat/Poultry;10
+1997-04-11 00:00:00.000;Sirop d'érable;Condiments;25
+1997-04-14 00:00:00.000;Tarte au sucre;Confections;3
+1997-04-15 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;18
+1997-04-15 00:00:00.000;Outback Lager;Beverages;14
+1997-04-15 00:00:00.000;Ipoh Coffee;Beverages;15
+1997-04-15 00:00:00.000;Chocolade;Confections;15
+1997-04-16 00:00:00.000;Konbu;Seafood;10
+1997-04-16 00:00:00.000;Chartreuse verte;Beverages;10
+1997-04-17 00:00:00.000;Rössle Sauerkraut;Produce;3
+1997-04-18 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;36
+1997-04-18 00:00:00.000;Rhönbräu Klosterbier;Beverages;36
+1997-04-18 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;50
+1997-04-18 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;50
+1997-04-18 00:00:00.000;Northwoods Cranberry Sauce;Condiments;10
+1997-04-21 00:00:00.000;Guaraná Fantástica;Beverages;10
+1997-04-21 00:00:00.000;Spegesild;Seafood;9
+1997-04-21 00:00:00.000;Zaanse koeken;Confections;6
+1997-04-21 00:00:00.000;Camembert Pierrot;Dairy Products;12
+1997-04-22 00:00:00.000;Sir Rodney's Scones;Confections;40
+1997-04-22 00:00:00.000;Mascarpone Fabioli;Dairy Products;50
+1997-04-22 00:00:00.000;Sirop d'érable;Condiments;15
+1997-04-22 00:00:00.000;Sir Rodney's Marmalade;Confections;39
+1997-04-22 00:00:00.000;Rössle Sauerkraut;Produce;35
+1997-04-22 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;70
+1997-04-22 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;39
+1997-04-22 00:00:00.000;Rhönbräu Klosterbier;Beverages;50
+1997-04-23 00:00:00.000;Mishi Kobe Niku;Meat/Poultry;16
+1997-04-23 00:00:00.000;Pavlova;Confections;50
+1997-04-23 00:00:00.000;Schoggi Schokolade;Confections;120
+1997-04-23 00:00:00.000;Geitost;Dairy Products;16
+1997-04-23 00:00:00.000;Camembert Pierrot;Dairy Products;84
+1997-04-24 00:00:00.000;Carnarvon Tigers;Seafood;25
+1997-04-24 00:00:00.000;Jack's New England Clam Chowder;Seafood;80
+1997-04-24 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;20
+1997-04-24 00:00:00.000;Filo Mix;Grains/Cereals;6
+1997-04-24 00:00:00.000;Raclette Courdavault;Dairy Products;4
+1997-04-24 00:00:00.000;Outback Lager;Beverages;6
+1997-04-25 00:00:00.000;Guaraná Fantástica;Beverages;5
+1997-04-25 00:00:00.000;Côte de Blaye;Beverages;15
+1997-04-25 00:00:00.000;Gula Malacca;Condiments;9
+1997-04-28 00:00:00.000;Ikura;Seafood;16
+1997-04-28 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;40
+1997-04-28 00:00:00.000;Camembert Pierrot;Dairy Products;10
+1997-04-29 00:00:00.000;Guaraná Fantástica;Beverages;8
+1997-04-29 00:00:00.000;Perth Pasties;Meat/Poultry;5
+1997-04-29 00:00:00.000;Steeleye Stout;Beverages;3
+1997-04-29 00:00:00.000;Jack's New England Clam Chowder;Seafood;10
+1997-04-29 00:00:00.000;Scottish Longbreads;Confections;6
+1997-04-30 00:00:00.000;Chai;Beverages;40
+1997-04-30 00:00:00.000;Northwoods Cranberry Sauce;Condiments;24
+1997-04-30 00:00:00.000;Nord-Ost Matjeshering;Seafood;20
+1997-04-30 00:00:00.000;Boston Crab Meat;Seafood;25
+1997-05-01 00:00:00.000;Alice Mutton;Meat/Poultry;25
+1997-05-01 00:00:00.000;Sir Rodney's Marmalade;Confections;15
+1997-05-01 00:00:00.000;Gravad lax;Seafood;18
+1997-05-01 00:00:00.000;Jack's New England Clam Chowder;Seafood;6
+1997-05-01 00:00:00.000;Ikura;Seafood;2
+1997-05-01 00:00:00.000;Nord-Ost Matjeshering;Seafood;10
+1997-05-01 00:00:00.000;Ipoh Coffee;Beverages;60
+1997-05-01 00:00:00.000;Tourtière;Meat/Poultry;15
+1997-05-02 00:00:00.000;Inlagd Sill;Seafood;30
+1997-05-02 00:00:00.000;Boston Crab Meat;Seafood;15
+1997-05-05 00:00:00.000;Chai;Beverages;8
+1997-05-05 00:00:00.000;Konbu;Seafood;10
+1997-05-05 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-05-05 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;50
+1997-05-05 00:00:00.000;Inlagd Sill;Seafood;30
+1997-05-06 00:00:00.000;Queso Cabrales;Dairy Products;3
+1997-05-06 00:00:00.000;Geitost;Dairy Products;8
+1997-05-06 00:00:00.000;Mozzarella di Giovanni;Dairy Products;9
+1997-05-07 00:00:00.000;Pâté chinois;Meat/Poultry;14
+1997-05-07 00:00:00.000;Scottish Longbreads;Confections;20
+1997-05-07 00:00:00.000;Gudbrandsdalsost;Dairy Products;10
+1997-05-08 00:00:00.000;Alice Mutton;Meat/Poultry;40
+1997-05-08 00:00:00.000;Ipoh Coffee;Beverages;25
+1997-05-08 00:00:00.000;Sirop d'érable;Condiments;20
+1997-05-08 00:00:00.000;Lakkalikööri;Beverages;50
+1997-05-08 00:00:00.000;Raclette Courdavault;Dairy Products;2
+1997-05-09 00:00:00.000;Nord-Ost Matjeshering;Seafood;15
+1997-05-09 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;24
+1997-05-12 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;50
+1997-05-12 00:00:00.000;Mozzarella di Giovanni;Dairy Products;24
+1997-05-12 00:00:00.000;Röd Kaviar;Seafood;24
+1997-05-12 00:00:00.000;Nord-Ost Matjeshering;Seafood;10
+1997-05-12 00:00:00.000;Boston Crab Meat;Seafood;10
+1997-05-12 00:00:00.000;Tourtière;Meat/Poultry;10
+1997-05-13 00:00:00.000;Queso Cabrales;Dairy Products;50
+1997-05-13 00:00:00.000;Boston Crab Meat;Seafood;10
+1997-05-13 00:00:00.000;Ravioli Angelo;Grains/Cereals;5
+1997-05-13 00:00:00.000;Raclette Courdavault;Dairy Products;15
+1997-05-14 00:00:00.000;Queso Manchego La Pastora;Dairy Products;15
+1997-05-14 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-05-14 00:00:00.000;Geitost;Dairy Products;30
+1997-05-14 00:00:00.000;Camembert Pierrot;Dairy Products;35
+1997-05-14 00:00:00.000;Gorgonzola Telino;Dairy Products;30
+1997-05-14 00:00:00.000;Manjimup Dried Apples;Produce;6
+1997-05-14 00:00:00.000;Escargots de Bourgogne;Seafood;20
+1997-05-14 00:00:00.000;Mozzarella di Giovanni;Dairy Products;21
+1997-05-14 00:00:00.000;Röd Kaviar;Seafood;9
+1997-05-15 00:00:00.000;Outback Lager;Beverages;7
+1997-05-15 00:00:00.000;Mozzarella di Giovanni;Dairy Products;1
+1997-05-16 00:00:00.000;Konbu;Seafood;8
+1997-05-16 00:00:00.000;Sir Rodney's Scones;Confections;15
+1997-05-16 00:00:00.000;Geitost;Dairy Products;15
+1997-05-16 00:00:00.000;Maxilaku;Confections;6
+1997-05-19 00:00:00.000;Aniseed Syrup;Condiments;60
+1997-05-19 00:00:00.000;Gumbär Gummibärchen;Confections;40
+1997-05-19 00:00:00.000;Côte de Blaye;Beverages;30
+1997-05-19 00:00:00.000;Scottish Longbreads;Confections;35
+1997-05-19 00:00:00.000;Guaraná Fantástica;Beverages;35
+1997-05-19 00:00:00.000;Côte de Blaye;Beverages;4
+1997-05-19 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;36
+1997-05-19 00:00:00.000;Flotemysost;Dairy Products;9
+1997-05-20 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-05-20 00:00:00.000;Tourtière;Meat/Poultry;24
+1997-05-21 00:00:00.000;Queso Manchego La Pastora;Dairy Products;30
+1997-05-21 00:00:00.000;Tunnbröd;Grains/Cereals;70
+1997-05-21 00:00:00.000;Rössle Sauerkraut;Produce;7
+1997-05-21 00:00:00.000;Laughing Lumberjack Lager;Beverages;7
+1997-05-22 00:00:00.000;Queso Cabrales;Dairy Products;10
+1997-05-23 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;10
+1997-05-23 00:00:00.000;Steeleye Stout;Beverages;30
+1997-05-23 00:00:00.000;Tarte au sucre;Confections;40
+1997-05-23 00:00:00.000;Mascarpone Fabioli;Dairy Products;24
+1997-05-23 00:00:00.000;Inlagd Sill;Seafood;60
+1997-05-26 00:00:00.000;Sasquatch Ale;Beverages;10
+1997-05-26 00:00:00.000;Jack's New England Clam Chowder;Seafood;14
+1997-05-27 00:00:00.000;Gorgonzola Telino;Dairy Products;55
+1997-05-27 00:00:00.000;Rogede sild;Seafood;100
+1997-05-27 00:00:00.000;Manjimup Dried Apples;Produce;48
+1997-05-28 00:00:00.000;Alice Mutton;Meat/Poultry;8
+1997-05-28 00:00:00.000;Teatime Chocolate Biscuits;Confections;10
+1997-05-28 00:00:00.000;Sir Rodney's Scones;Confections;6
+1997-05-28 00:00:00.000;Sirop d'érable;Condiments;10
+1997-05-28 00:00:00.000;Pavlova;Confections;40
+1997-05-28 00:00:00.000;Steeleye Stout;Beverages;20
+1997-05-28 00:00:00.000;Gula Malacca;Condiments;40
+1997-05-29 00:00:00.000;Gudbrandsdalsost;Dairy Products;18
+1997-05-29 00:00:00.000;Rhönbräu Klosterbier;Beverages;30
+1997-05-30 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-05-30 00:00:00.000;Pavlova;Confections;14
+1997-05-30 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;24
+1997-05-30 00:00:00.000;Gorgonzola Telino;Dairy Products;30
+1997-05-30 00:00:00.000;Steeleye Stout;Beverages;6
+1997-05-30 00:00:00.000;Pavlova;Confections;30
+1997-05-30 00:00:00.000;Tunnbröd;Grains/Cereals;20
+1997-05-30 00:00:00.000;Tarte au sucre;Confections;20
+1997-05-30 00:00:00.000;Original Frankfurter grüne Soße;Condiments;10
+1997-06-02 00:00:00.000;Tofu;Produce;30
+1997-06-02 00:00:00.000;Teatime Chocolate Biscuits;Confections;35
+1997-06-02 00:00:00.000;Guaraná Fantástica;Beverages;18
+1997-06-02 00:00:00.000;Manjimup Dried Apples;Produce;20
+1997-06-02 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;40
+1997-06-03 00:00:00.000;Mozzarella di Giovanni;Dairy Products;24
+1997-06-03 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;30
+1997-06-03 00:00:00.000;Rhönbräu Klosterbier;Beverages;20
+1997-06-04 00:00:00.000;Zaanse koeken;Confections;25
+1997-06-04 00:00:00.000;Manjimup Dried Apples;Produce;20
+1997-06-04 00:00:00.000;Filo Mix;Grains/Cereals;30
+1997-06-04 00:00:00.000;Perth Pasties;Meat/Poultry;18
+1997-06-04 00:00:00.000;Röd Kaviar;Seafood;3
+1997-06-05 00:00:00.000;Jack's New England Clam Chowder;Seafood;12
+1997-06-05 00:00:00.000;Pâté chinois;Meat/Poultry;18
+1997-06-06 00:00:00.000;Nord-Ost Matjeshering;Seafood;20
+1997-06-06 00:00:00.000;Tarte au sucre;Confections;15
+1997-06-06 00:00:00.000;Gula Malacca;Condiments;10
+1997-06-06 00:00:00.000;Manjimup Dried Apples;Produce;50
+1997-06-09 00:00:00.000;Geitost;Dairy Products;20
+1997-06-09 00:00:00.000;Tarte au sucre;Confections;10
+1997-06-10 00:00:00.000;Inlagd Sill;Seafood;25
+1997-06-10 00:00:00.000;Filo Mix;Grains/Cereals;70
+1997-06-10 00:00:00.000;Alice Mutton;Meat/Poultry;16
+1997-06-10 00:00:00.000;Gorgonzola Telino;Dairy Products;6
+1997-06-10 00:00:00.000;Pâté chinois;Meat/Poultry;25
+1997-06-11 00:00:00.000;Guaraná Fantástica;Beverages;25
+1997-06-11 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;18
+1997-06-12 00:00:00.000;Queso Cabrales;Dairy Products;35
+1997-06-12 00:00:00.000;Carnarvon Tigers;Seafood;18
+1997-06-12 00:00:00.000;Lakkalikööri;Beverages;10
+1997-06-12 00:00:00.000;Gorgonzola Telino;Dairy Products;60
+1997-06-12 00:00:00.000;Manjimup Dried Apples;Produce;3
+1997-06-12 00:00:00.000;Raclette Courdavault;Dairy Products;40
+1997-06-13 00:00:00.000;Ikura;Seafood;5
+1997-06-16 00:00:00.000;Gorgonzola Telino;Dairy Products;35
+1997-06-16 00:00:00.000;Lakkalikööri;Beverages;30
+1997-06-17 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-06-17 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;60
+1997-06-17 00:00:00.000;Tofu;Produce;11
+1997-06-17 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;28
+1997-06-18 00:00:00.000;Pavlova;Confections;12
+1997-06-18 00:00:00.000;Mascarpone Fabioli;Dairy Products;10
+1997-06-18 00:00:00.000;Boston Crab Meat;Seafood;50
+1997-06-18 00:00:00.000;Rhönbräu Klosterbier;Beverages;15
+1997-06-19 00:00:00.000;Alice Mutton;Meat/Poultry;18
+1997-06-19 00:00:00.000;Sasquatch Ale;Beverages;40
+1997-06-19 00:00:00.000;Perth Pasties;Meat/Poultry;25
+1997-06-19 00:00:00.000;Geitost;Dairy Products;14
+1997-06-19 00:00:00.000;Boston Crab Meat;Seafood;2
+1997-06-19 00:00:00.000;Tarte au sucre;Confections;10
+1997-06-19 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;6
+1997-06-20 00:00:00.000;Raclette Courdavault;Dairy Products;12
+1997-06-20 00:00:00.000;Vegie-spread;Condiments;6
+1997-06-20 00:00:00.000;Mozzarella di Giovanni;Dairy Products;30
+1997-06-20 00:00:00.000;Lakkalikööri;Beverages;10
+1997-06-23 00:00:00.000;Chai;Beverages;10
+1997-06-23 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-06-23 00:00:00.000;Gula Malacca;Condiments;21
+1997-06-23 00:00:00.000;Chartreuse verte;Beverages;10
+1997-06-23 00:00:00.000;Rhönbräu Klosterbier;Beverages;20
+1997-06-23 00:00:00.000;Original Frankfurter grüne Soße;Condiments;18
+1997-06-24 00:00:00.000;Steeleye Stout;Beverages;20
+1997-06-24 00:00:00.000;Ravioli Angelo;Grains/Cereals;6
+1997-06-25 00:00:00.000;Genen Shouyu;Condiments;10
+1997-06-25 00:00:00.000;Rhönbräu Klosterbier;Beverages;21
+1997-06-26 00:00:00.000;Tofu;Produce;15
+1997-06-26 00:00:00.000;Jack's New England Clam Chowder;Seafood;9
+1997-06-26 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;30
+1997-06-26 00:00:00.000;Rhönbräu Klosterbier;Beverages;50
+1997-06-27 00:00:00.000;Ravioli Angelo;Grains/Cereals;4
+1997-06-27 00:00:00.000;Lakkalikööri;Beverages;14
+1997-06-30 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;10
+1997-06-30 00:00:00.000;Camembert Pierrot;Dairy Products;24
+1997-06-30 00:00:00.000;Gudbrandsdalsost;Dairy Products;10
+1997-06-30 00:00:00.000;Gorgonzola Telino;Dairy Products;50
+1997-07-01 00:00:00.000;Zaanse koeken;Confections;15
+1997-07-02 00:00:00.000;Filo Mix;Grains/Cereals;4
+1997-07-02 00:00:00.000;Gumbär Gummibärchen;Confections;6
+1997-07-02 00:00:00.000;Steeleye Stout;Beverages;20
+1997-07-02 00:00:00.000;Original Frankfurter grüne Soße;Condiments;20
+1997-07-03 00:00:00.000;Carnarvon Tigers;Seafood;40
+1997-07-03 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;100
+1997-07-04 00:00:00.000;Steeleye Stout;Beverages;4
+1997-07-07 00:00:00.000;Chai;Beverages;20
+1997-07-07 00:00:00.000;Original Frankfurter grüne Soße;Condiments;60
+1997-07-07 00:00:00.000;Aniseed Syrup;Condiments;14
+1997-07-07 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;10
+1997-07-07 00:00:00.000;Tourtière;Meat/Poultry;50
+1997-07-08 00:00:00.000;Genen Shouyu;Condiments;25
+1997-07-08 00:00:00.000;Gumbär Gummibärchen;Confections;5
+1997-07-09 00:00:00.000;Sir Rodney's Marmalade;Confections;21
+1997-07-09 00:00:00.000;Gudbrandsdalsost;Dairy Products;20
+1997-07-09 00:00:00.000;Lakkalikööri;Beverages;4
+1997-07-09 00:00:00.000;Filo Mix;Grains/Cereals;24
+1997-07-09 00:00:00.000;Escargots de Bourgogne;Seafood;30
+1997-07-10 00:00:00.000;Steeleye Stout;Beverages;30
+1997-07-10 00:00:00.000;Sirop d'érable;Condiments;120
+1997-07-10 00:00:00.000;Gudbrandsdalsost;Dairy Products;65
+1997-07-11 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;5
+1997-07-11 00:00:00.000;Vegie-spread;Condiments;24
+1997-07-11 00:00:00.000;Rhönbräu Klosterbier;Beverages;30
+1997-07-11 00:00:00.000;Guaraná Fantástica;Beverages;35
+1997-07-11 00:00:00.000;Ravioli Angelo;Grains/Cereals;20
+1997-07-11 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;12
+1997-07-14 00:00:00.000;Schoggi Schokolade;Confections;50
+1997-07-14 00:00:00.000;Flotemysost;Dairy Products;9
+1997-07-15 00:00:00.000;Tarte au sucre;Confections;10
+1997-07-16 00:00:00.000;Tourtière;Meat/Poultry;4
+1997-07-16 00:00:00.000;Röd Kaviar;Seafood;30
+1997-07-16 00:00:00.000;Konbu;Seafood;60
+1997-07-16 00:00:00.000;Raclette Courdavault;Dairy Products;35
+1997-07-17 00:00:00.000;Original Frankfurter grüne Soße;Condiments;5
+1997-07-18 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;48
+1997-07-18 00:00:00.000;Maxilaku;Confections;25
+1997-07-18 00:00:00.000;Chocolade;Confections;6
+1997-07-18 00:00:00.000;Lakkalikööri;Beverages;10
+1997-07-21 00:00:00.000;Pavlova;Confections;30
+1997-07-21 00:00:00.000;Raclette Courdavault;Dairy Products;20
+1997-07-21 00:00:00.000;Camembert Pierrot;Dairy Products;70
+1997-07-21 00:00:00.000;Flotemysost;Dairy Products;15
+1997-07-22 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;20
+1997-07-22 00:00:00.000;Pâté chinois;Meat/Poultry;20
+1997-07-22 00:00:00.000;Tarte au sucre;Confections;10
+1997-07-22 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;45
+1997-07-22 00:00:00.000;Alice Mutton;Meat/Poultry;100
+1997-07-22 00:00:00.000;Geitost;Dairy Products;14
+1997-07-22 00:00:00.000;Boston Crab Meat;Seafood;42
+1997-07-22 00:00:00.000;Mozzarella di Giovanni;Dairy Products;12
+1997-07-23 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;28
+1997-07-24 00:00:00.000;Chai;Beverages;3
+1997-07-24 00:00:00.000;Ikura;Seafood;10
+1997-07-24 00:00:00.000;Sir Rodney's Scones;Confections;6
+1997-07-25 00:00:00.000;Inlagd Sill;Seafood;21
+1997-07-25 00:00:00.000;Chai;Beverages;6
+1997-07-25 00:00:00.000;Chang;Beverages;10
+1997-07-25 00:00:00.000;Camembert Pierrot;Dairy Products;15
+1997-07-28 00:00:00.000;Ikura;Seafood;70
+1997-07-28 00:00:00.000;Inlagd Sill;Seafood;55
+1997-07-28 00:00:00.000;Maxilaku;Confections;18
+1997-07-28 00:00:00.000;Camembert Pierrot;Dairy Products;40
+1997-07-28 00:00:00.000;Lakkalikööri;Beverages;80
+1997-07-29 00:00:00.000;Konbu;Seafood;8
+1997-07-29 00:00:00.000;Rhönbräu Klosterbier;Beverages;40
+1997-07-29 00:00:00.000;Queso Cabrales;Dairy Products;14
+1997-07-29 00:00:00.000;Sir Rodney's Scones;Confections;8
+1997-07-29 00:00:00.000;Chartreuse verte;Beverages;5
+1997-07-30 00:00:00.000;Pâté chinois;Meat/Poultry;5
+1997-07-31 00:00:00.000;Côte de Blaye;Beverages;15
+1997-07-31 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;14
+1997-07-31 00:00:00.000;Outback Lager;Beverages;15
+1997-07-31 00:00:00.000;Flotemysost;Dairy Products;15
+1997-07-31 00:00:00.000;Raclette Courdavault;Dairy Products;30
+1997-08-01 00:00:00.000;Grandma's Boysenberry Spread;Condiments;70
+1997-08-01 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;20
+1997-08-01 00:00:00.000;Scottish Longbreads;Confections;15
+1997-08-04 00:00:00.000;Sir Rodney's Scones;Confections;42
+1997-08-04 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;40
+1997-08-05 00:00:00.000;Guaraná Fantástica;Beverages;5
+1997-08-05 00:00:00.000;Filo Mix;Grains/Cereals;5
+1997-08-05 00:00:00.000;Teatime Chocolate Biscuits;Confections;5
+1997-08-05 00:00:00.000;Tunnbröd;Grains/Cereals;10
+1997-08-05 00:00:00.000;Outback Lager;Beverages;20
+1997-08-05 00:00:00.000;Flotemysost;Dairy Products;15
+1997-08-06 00:00:00.000;Chang;Beverages;20
+1997-08-06 00:00:00.000;Scottish Longbreads;Confections;18
+1997-08-07 00:00:00.000;Tofu;Produce;21
+1997-08-07 00:00:00.000;Teatime Chocolate Biscuits;Confections;15
+1997-08-07 00:00:00.000;Sir Rodney's Scones;Confections;25
+1997-08-07 00:00:00.000;Guaraná Fantástica;Beverages;3
+1997-08-07 00:00:00.000;Steeleye Stout;Beverages;30
+1997-08-07 00:00:00.000;Rössle Sauerkraut;Produce;10
+1997-08-07 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;6
+1997-08-07 00:00:00.000;Gula Malacca;Condiments;10
+1997-08-08 00:00:00.000;Tofu;Produce;3
+1997-08-08 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;5
+1997-08-08 00:00:00.000;Camembert Pierrot;Dairy Products;10
+1997-08-11 00:00:00.000;Perth Pasties;Meat/Poultry;12
+1997-08-11 00:00:00.000;Camembert Pierrot;Dairy Products;20
+1997-08-11 00:00:00.000;Flotemysost;Dairy Products;20
+1997-08-11 00:00:00.000;Tarte au sucre;Confections;15
+1997-08-11 00:00:00.000;Röd Kaviar;Seafood;35
+1997-08-12 00:00:00.000;Chai;Beverages;25
+1997-08-12 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;20
+1997-08-12 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;9
+1997-08-13 00:00:00.000;Pâté chinois;Meat/Poultry;12
+1997-08-13 00:00:00.000;Lakkalikööri;Beverages;35
+1997-08-14 00:00:00.000;Rhönbräu Klosterbier;Beverages;8
+1997-08-14 00:00:00.000;Chang;Beverages;30
+1997-08-14 00:00:00.000;Geitost;Dairy Products;20
+1997-08-15 00:00:00.000;Queso Manchego La Pastora;Dairy Products;36
+1997-08-15 00:00:00.000;Konbu;Seafood;13
+1997-08-15 00:00:00.000;Gumbär Gummibärchen;Confections;35
+1997-08-15 00:00:00.000;Tarte au sucre;Confections;80
+1997-08-15 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;35
+1997-08-15 00:00:00.000;Carnarvon Tigers;Seafood;50
+1997-08-15 00:00:00.000;Manjimup Dried Apples;Produce;15
+1997-08-15 00:00:00.000;Rhönbräu Klosterbier;Beverages;2
+1997-08-18 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;10
+1997-08-18 00:00:00.000;Chef Anton's Gumbo Mix;Condiments;15
+1997-08-18 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;40
+1997-08-19 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;25
+1997-08-19 00:00:00.000;Escargots de Bourgogne;Seafood;6
+1997-08-19 00:00:00.000;Queso Cabrales;Dairy Products;10
+1997-08-19 00:00:00.000;Valkoinen suklaa;Confections;25
+1997-08-19 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;60
+1997-08-20 00:00:00.000;Rogede sild;Seafood;20
+1997-08-20 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;21
+1997-08-20 00:00:00.000;Mozzarella di Giovanni;Dairy Products;60
+1997-08-20 00:00:00.000;Carnarvon Tigers;Seafood;8
+1997-08-21 00:00:00.000;Gudbrandsdalsost;Dairy Products;20
+1997-08-21 00:00:00.000;Outback Lager;Beverages;15
+1997-08-22 00:00:00.000;Chang;Beverages;50
+1997-08-22 00:00:00.000;Boston Crab Meat;Seafood;60
+1997-08-22 00:00:00.000;Sir Rodney's Scones;Confections;30
+1997-08-22 00:00:00.000;Sirop d'érable;Condiments;20
+1997-08-25 00:00:00.000;Rössle Sauerkraut;Produce;15
+1997-08-25 00:00:00.000;Chartreuse verte;Beverages;21
+1997-08-25 00:00:00.000;Spegesild;Seafood;2
+1997-08-25 00:00:00.000;Carnarvon Tigers;Seafood;4
+1997-08-25 00:00:00.000;Ipoh Coffee;Beverages;20
+1997-08-25 00:00:00.000;Spegesild;Seafood;21
+1997-08-26 00:00:00.000;Carnarvon Tigers;Seafood;20
+1997-08-26 00:00:00.000;Inlagd Sill;Seafood;15
+1997-08-27 00:00:00.000;Chai;Beverages;15
+1997-08-27 00:00:00.000;Ikura;Seafood;18
+1997-08-27 00:00:00.000;Flotemysost;Dairy Products;30
+1997-08-27 00:00:00.000;Original Frankfurter grüne Soße;Condiments;35
+1997-08-27 00:00:00.000;Teatime Chocolate Biscuits;Confections;30
+1997-08-27 00:00:00.000;Chartreuse verte;Beverages;20
+1997-08-28 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;15
+1997-08-28 00:00:00.000;Guaraná Fantástica;Beverages;15
+1997-08-28 00:00:00.000;Rössle Sauerkraut;Produce;20
+1997-08-28 00:00:00.000;Mozzarella di Giovanni;Dairy Products;15
+1997-08-29 00:00:00.000;Nord-Ost Matjeshering;Seafood;30
+1997-08-29 00:00:00.000;Perth Pasties;Meat/Poultry;25
+1997-08-29 00:00:00.000;Tourtière;Meat/Poultry;30
+1997-09-01 00:00:00.000;Teatime Chocolate Biscuits;Confections;12
+1997-09-01 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;20
+1997-09-01 00:00:00.000;Nord-Ost Matjeshering;Seafood;2
+1997-09-01 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;20
+1997-09-02 00:00:00.000;Pavlova;Confections;30
+1997-09-02 00:00:00.000;Camembert Pierrot;Dairy Products;20
+1997-09-02 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;12
+1997-09-02 00:00:00.000;Chartreuse verte;Beverages;20
+1997-09-02 00:00:00.000;Tourtière;Meat/Poultry;6
+1997-09-03 00:00:00.000;Jack's New England Clam Chowder;Seafood;20
+1997-09-04 00:00:00.000;Tofu;Produce;3
+1997-09-04 00:00:00.000;Gula Malacca;Condiments;28
+1997-09-04 00:00:00.000;Zaanse koeken;Confections;6
+1997-09-04 00:00:00.000;Genen Shouyu;Condiments;50
+1997-09-04 00:00:00.000;Jack's New England Clam Chowder;Seafood;24
+1997-09-04 00:00:00.000;Spegesild;Seafood;45
+1997-09-04 00:00:00.000;Zaanse koeken;Confections;10
+1997-09-04 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;45
+1997-09-04 00:00:00.000;Camembert Pierrot;Dairy Products;30
+1997-09-05 00:00:00.000;Sir Rodney's Scones;Confections;60
+1997-09-05 00:00:00.000;Boston Crab Meat;Seafood;70
+1997-09-05 00:00:00.000;Camembert Pierrot;Dairy Products;55
+1997-09-05 00:00:00.000;Original Frankfurter grüne Soße;Condiments;70
+1997-09-05 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-09-05 00:00:00.000;Boston Crab Meat;Seafood;24
+1997-09-05 00:00:00.000;Outback Lager;Beverages;40
+1997-09-08 00:00:00.000;Sir Rodney's Marmalade;Confections;21
+1997-09-09 00:00:00.000;Chartreuse verte;Beverages;3
+1997-09-09 00:00:00.000;Escargots de Bourgogne;Seafood;49
+1997-09-09 00:00:00.000;Scottish Longbreads;Confections;10
+1997-09-10 00:00:00.000;Boston Crab Meat;Seafood;30
+1997-09-10 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;30
+1997-09-10 00:00:00.000;Manjimup Dried Apples;Produce;20
+1997-09-10 00:00:00.000;Ikura;Seafood;24
+1997-09-10 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;12
+1997-09-10 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;15
+1997-09-11 00:00:00.000;Manjimup Dried Apples;Produce;20
+1997-09-11 00:00:00.000;Raclette Courdavault;Dairy Products;1
+1997-09-11 00:00:00.000;Lakkalikööri;Beverages;10
+1997-09-12 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;36
+1997-09-12 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;10
+1997-09-12 00:00:00.000;Gudbrandsdalsost;Dairy Products;45
+1997-09-12 00:00:00.000;Flotemysost;Dairy Products;14
+1997-09-15 00:00:00.000;Gorgonzola Telino;Dairy Products;8
+1997-09-15 00:00:00.000;Pâté chinois;Meat/Poultry;4
+1997-09-15 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;15
+1997-09-15 00:00:00.000;Inlagd Sill;Seafood;30
+1997-09-16 00:00:00.000;Tunnbröd;Grains/Cereals;32
+1997-09-16 00:00:00.000;Spegesild;Seafood;60
+1997-09-16 00:00:00.000;Laughing Lumberjack Lager;Beverages;25
+1997-09-16 00:00:00.000;Röd Kaviar;Seafood;50
+1997-09-16 00:00:00.000;Rhönbräu Klosterbier;Beverages;25
+1997-09-17 00:00:00.000;Pavlova;Confections;10
+1997-09-17 00:00:00.000;Tarte au sucre;Confections;10
+1997-09-17 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;12
+1997-09-17 00:00:00.000;Côte de Blaye;Beverages;15
+1997-09-17 00:00:00.000;Flotemysost;Dairy Products;12
+1997-09-18 00:00:00.000;Pavlova;Confections;3
+1997-09-18 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;6
+1997-09-18 00:00:00.000;Ipoh Coffee;Beverages;6
+1997-09-18 00:00:00.000;Tunnbröd;Grains/Cereals;5
+1997-09-19 00:00:00.000;Tofu;Produce;30
+1997-09-19 00:00:00.000;Perth Pasties;Meat/Poultry;10
+1997-09-19 00:00:00.000;Escargots de Bourgogne;Seafood;30
+1997-09-22 00:00:00.000;Ikura;Seafood;2
+1997-09-22 00:00:00.000;Teatime Chocolate Biscuits;Confections;7
+1997-09-22 00:00:00.000;Gula Malacca;Condiments;21
+1997-09-22 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-09-22 00:00:00.000;Geitost;Dairy Products;8
+1997-09-23 00:00:00.000;Queso Manchego La Pastora;Dairy Products;100
+1997-09-23 00:00:00.000;Geitost;Dairy Products;30
+1997-09-23 00:00:00.000;Jack's New England Clam Chowder;Seafood;120
+1997-09-23 00:00:00.000;Tourtière;Meat/Poultry;30
+1997-09-23 00:00:00.000;Raclette Courdavault;Dairy Products;12
+1997-09-24 00:00:00.000;Pavlova;Confections;50
+1997-09-24 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-09-24 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;40
+1997-09-25 00:00:00.000;Teatime Chocolate Biscuits;Confections;30
+1997-09-25 00:00:00.000;Sir Rodney's Scones;Confections;12
+1997-09-25 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;28
+1997-09-25 00:00:00.000;Geitost;Dairy Products;30
+1997-09-25 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;4
+1997-09-25 00:00:00.000;Rhönbräu Klosterbier;Beverages;30
+1997-09-26 00:00:00.000;Filo Mix;Grains/Cereals;9
+1997-09-26 00:00:00.000;Boston Crab Meat;Seafood;20
+1997-09-26 00:00:00.000;Zaanse koeken;Confections;40
+1997-09-26 00:00:00.000;Camembert Pierrot;Dairy Products;30
+1997-09-29 00:00:00.000;Ikura;Seafood;20
+1997-09-29 00:00:00.000;Jack's New England Clam Chowder;Seafood;4
+1997-09-29 00:00:00.000;Zaanse koeken;Confections;15
+1997-09-30 00:00:00.000;Alice Mutton;Meat/Poultry;30
+1997-09-30 00:00:00.000;Gumbär Gummibärchen;Confections;15
+1997-09-30 00:00:00.000;Mishi Kobe Niku;Meat/Poultry;50
+1997-09-30 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;10
+1997-09-30 00:00:00.000;Inlagd Sill;Seafood;6
+1997-10-01 00:00:00.000;Ikura;Seafood;18
+1997-10-01 00:00:00.000;Rössle Sauerkraut;Produce;60
+1997-10-01 00:00:00.000;Sasquatch Ale;Beverages;14
+1997-10-01 00:00:00.000;Chai;Beverages;35
+1997-10-02 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;20
+1997-10-02 00:00:00.000;Original Frankfurter grüne Soße;Condiments;30
+1997-10-03 00:00:00.000;Chai;Beverages;30
+1997-10-03 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;40
+1997-10-03 00:00:00.000;Ipoh Coffee;Beverages;40
+1997-10-03 00:00:00.000;Gula Malacca;Condiments;24
+1997-10-03 00:00:00.000;Tarte au sucre;Confections;48
+1997-10-03 00:00:00.000;Vegie-spread;Condiments;20
+1997-10-06 00:00:00.000;Mishi Kobe Niku;Meat/Poultry;6
+1997-10-06 00:00:00.000;Tourtière;Meat/Poultry;60
+1997-10-06 00:00:00.000;Gudbrandsdalsost;Dairy Products;30
+1997-10-06 00:00:00.000;Röd Kaviar;Seafood;15
+1997-10-06 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;90
+1997-10-06 00:00:00.000;Raclette Courdavault;Dairy Products;25
+1997-10-06 00:00:00.000;Outback Lager;Beverages;50
+1997-10-07 00:00:00.000;Northwoods Cranberry Sauce;Condiments;10
+1997-10-07 00:00:00.000;Queso Manchego La Pastora;Dairy Products;4
+1997-10-07 00:00:00.000;Guaraná Fantástica;Beverages;20
+1997-10-08 00:00:00.000;Alice Mutton;Meat/Poultry;20
+1997-10-08 00:00:00.000;Spegesild;Seafood;18
+1997-10-08 00:00:00.000;Teatime Chocolate Biscuits;Confections;7
+1997-10-08 00:00:00.000;Steeleye Stout;Beverages;9
+1997-10-08 00:00:00.000;Escargots de Bourgogne;Seafood;30
+1997-10-08 00:00:00.000;Outback Lager;Beverages;30
+1997-10-09 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-10-09 00:00:00.000;Alice Mutton;Meat/Poultry;8
+1997-10-09 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;12
+1997-10-09 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;65
+1997-10-09 00:00:00.000;Outback Lager;Beverages;8
+1997-10-09 00:00:00.000;Zaanse koeken;Confections;12
+1997-10-10 00:00:00.000;Chai;Beverages;5
+1997-10-10 00:00:00.000;Sasquatch Ale;Beverages;12
+1997-10-10 00:00:00.000;Scottish Longbreads;Confections;40
+1997-10-10 00:00:00.000;Flotemysost;Dairy Products;60
+1997-10-13 00:00:00.000;Raclette Courdavault;Dairy Products;42
+1997-10-13 00:00:00.000;Flotemysost;Dairy Products;20
+1997-10-13 00:00:00.000;Lakkalikööri;Beverages;35
+1997-10-13 00:00:00.000;Aniseed Syrup;Condiments;6
+1997-10-13 00:00:00.000;Lakkalikööri;Beverages;15
+1997-10-14 00:00:00.000;Chang;Beverages;5
+1997-10-14 00:00:00.000;Raclette Courdavault;Dairy Products;35
+1997-10-14 00:00:00.000;Röd Kaviar;Seafood;35
+1997-10-14 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;6
+1997-10-14 00:00:00.000;Guaraná Fantástica;Beverages;35
+1997-10-14 00:00:00.000;Chocolade;Confections;24
+1997-10-15 00:00:00.000;Gorgonzola Telino;Dairy Products;20
+1997-10-15 00:00:00.000;Mascarpone Fabioli;Dairy Products;4
+1997-10-16 00:00:00.000;Pavlova;Confections;20
+1997-10-16 00:00:00.000;Ipoh Coffee;Beverages;24
+1997-10-16 00:00:00.000;Raclette Courdavault;Dairy Products;8
+1997-10-16 00:00:00.000;Pâté chinois;Meat/Poultry;21
+1997-10-16 00:00:00.000;Ravioli Angelo;Grains/Cereals;40
+1997-10-16 00:00:00.000;Outback Lager;Beverages;28
+1997-10-17 00:00:00.000;Chef Anton's Gumbo Mix;Condiments;4
+1997-10-17 00:00:00.000;Inlagd Sill;Seafood;5
+1997-10-17 00:00:00.000;Northwoods Cranberry Sauce;Condiments;40
+1997-10-17 00:00:00.000;Manjimup Dried Apples;Produce;28
+1997-10-17 00:00:00.000;Camembert Pierrot;Dairy Products;10
+1997-10-20 00:00:00.000;Teatime Chocolate Biscuits;Confections;5
+1997-10-20 00:00:00.000;Zaanse koeken;Confections;5
+1997-10-21 00:00:00.000;Teatime Chocolate Biscuits;Confections;12
+1997-10-21 00:00:00.000;Jack's New England Clam Chowder;Seafood;42
+1997-10-21 00:00:00.000;Perth Pasties;Meat/Poultry;120
+1997-10-21 00:00:00.000;Perth Pasties;Meat/Poultry;3
+1997-10-21 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-10-22 00:00:00.000;Ikura;Seafood;18
+1997-10-22 00:00:00.000;Gumbär Gummibärchen;Confections;30
+1997-10-22 00:00:00.000;Rogede sild;Seafood;110
+1997-10-22 00:00:00.000;Spegesild;Seafood;24
+1997-10-22 00:00:00.000;Chang;Beverages;30
+1997-10-22 00:00:00.000;Alice Mutton;Meat/Poultry;27
+1997-10-22 00:00:00.000;Zaanse koeken;Confections;50
+1997-10-22 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;18
+1997-10-22 00:00:00.000;Escargots de Bourgogne;Seafood;12
+1997-10-23 00:00:00.000;Ikura;Seafood;21
+1997-10-23 00:00:00.000;Flotemysost;Dairy Products;30
+1997-10-24 00:00:00.000;Sir Rodney's Scones;Confections;5
+1997-10-24 00:00:00.000;Manjimup Dried Apples;Produce;7
+1997-10-24 00:00:00.000;Sirop d'érable;Condiments;10
+1997-10-24 00:00:00.000;Sir Rodney's Scones;Confections;32
+1997-10-24 00:00:00.000;Tourtière;Meat/Poultry;15
+1997-10-24 00:00:00.000;Gudbrandsdalsost;Dairy Products;25
+1997-10-27 00:00:00.000;Queso Manchego La Pastora;Dairy Products;36
+1997-10-27 00:00:00.000;Pavlova;Confections;20
+1997-10-27 00:00:00.000;Inlagd Sill;Seafood;40
+1997-10-27 00:00:00.000;Tarte au sucre;Confections;20
+1997-10-27 00:00:00.000;Carnarvon Tigers;Seafood;12
+1997-10-27 00:00:00.000;Nord-Ost Matjeshering;Seafood;3
+1997-10-27 00:00:00.000;Tourtière;Meat/Poultry;40
+1997-10-28 00:00:00.000;Steeleye Stout;Beverages;21
+1997-10-28 00:00:00.000;Flotemysost;Dairy Products;8
+1997-10-29 00:00:00.000;Gula Malacca;Condiments;50
+1997-10-29 00:00:00.000;Chang;Beverages;3
+1997-10-29 00:00:00.000;Gorgonzola Telino;Dairy Products;50
+1997-10-29 00:00:00.000;Scottish Longbreads;Confections;45
+1997-10-29 00:00:00.000;Rhönbräu Klosterbier;Beverages;42
+1997-10-30 00:00:00.000;Gumbär Gummibärchen;Confections;15
+1997-10-30 00:00:00.000;Ikura;Seafood;16
+1997-10-30 00:00:00.000;Sirop d'érable;Condiments;5
+1997-10-31 00:00:00.000;Jack's New England Clam Chowder;Seafood;12
+1997-10-31 00:00:00.000;Filo Mix;Grains/Cereals;4
+1997-10-31 00:00:00.000;Pâté chinois;Meat/Poultry;6
+1997-11-03 00:00:00.000;Chef Anton's Cajun Seasoning;Condiments;25
+1997-11-03 00:00:00.000;Queso Cabrales;Dairy Products;5
+1997-11-03 00:00:00.000;Alice Mutton;Meat/Poultry;20
+1997-11-03 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;10
+1997-11-03 00:00:00.000;Raclette Courdavault;Dairy Products;10
+1997-11-04 00:00:00.000;Nord-Ost Matjeshering;Seafood;15
+1997-11-04 00:00:00.000;Boston Crab Meat;Seafood;6
+1997-11-04 00:00:00.000;Pâté chinois;Meat/Poultry;12
+1997-11-04 00:00:00.000;Camembert Pierrot;Dairy Products;15
+1997-11-04 00:00:00.000;Chai;Beverages;50
+1997-11-04 00:00:00.000;Sir Rodney's Scones;Confections;30
+1997-11-04 00:00:00.000;Valkoinen suklaa;Confections;40
+1997-11-05 00:00:00.000;Pavlova;Confections;15
+1997-11-05 00:00:00.000;Gorgonzola Telino;Dairy Products;3
+1997-11-05 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;10
+1997-11-06 00:00:00.000;Sir Rodney's Scones;Confections;40
+1997-11-06 00:00:00.000;Manjimup Dried Apples;Produce;30
+1997-11-06 00:00:00.000;Lakkalikööri;Beverages;20
+1997-11-07 00:00:00.000;Tofu;Produce;16
+1997-11-07 00:00:00.000;Rössle Sauerkraut;Produce;20
+1997-11-07 00:00:00.000;Filo Mix;Grains/Cereals;25
+1997-11-07 00:00:00.000;Grandma's Boysenberry Spread;Condiments;30
+1997-11-07 00:00:00.000;Nord-Ost Matjeshering;Seafood;15
+1997-11-07 00:00:00.000;Lakkalikööri;Beverages;20
+1997-11-10 00:00:00.000;Sirop d'érable;Condiments;20
+1997-11-10 00:00:00.000;Original Frankfurter grüne Soße;Condiments;2
+1997-11-11 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;40
+1997-11-11 00:00:00.000;Rhönbräu Klosterbier;Beverages;20
+1997-11-11 00:00:00.000;Konbu;Seafood;4
+1997-11-11 00:00:00.000;Jack's New England Clam Chowder;Seafood;12
+1997-11-12 00:00:00.000;Pavlova;Confections;3
+1997-11-12 00:00:00.000;Inlagd Sill;Seafood;6
+1997-11-12 00:00:00.000;Filo Mix;Grains/Cereals;18
+1997-11-13 00:00:00.000;Rössle Sauerkraut;Produce;5
+1997-11-13 00:00:00.000;Steeleye Stout;Beverages;35
+1997-11-13 00:00:00.000;Rogede sild;Seafood;40
+1997-11-13 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;14
+1997-11-14 00:00:00.000;Chang;Beverages;15
+1997-11-14 00:00:00.000;Aniseed Syrup;Condiments;20
+1997-11-14 00:00:00.000;Camembert Pierrot;Dairy Products;50
+1997-11-14 00:00:00.000;Mozzarella di Giovanni;Dairy Products;35
+1997-11-17 00:00:00.000;Spegesild;Seafood;28
+1997-11-17 00:00:00.000;Boston Crab Meat;Seafood;50
+1997-11-18 00:00:00.000;Carnarvon Tigers;Seafood;24
+1997-11-18 00:00:00.000;Gula Malacca;Condiments;16
+1997-11-18 00:00:00.000;Raclette Courdavault;Dairy Products;45
+1997-11-18 00:00:00.000;Mozzarella di Giovanni;Dairy Products;7
+1997-11-19 00:00:00.000;Konbu;Seafood;6
+1997-11-19 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;28
+1997-11-19 00:00:00.000;Tarte au sucre;Confections;9
+1997-11-19 00:00:00.000;Gudbrandsdalsost;Dairy Products;40
+1997-11-19 00:00:00.000;Gorgonzola Telino;Dairy Products;8
+1997-11-19 00:00:00.000;Jack's New England Clam Chowder;Seafood;35
+1997-11-19 00:00:00.000;Vegie-spread;Condiments;9
+1997-11-19 00:00:00.000;Gudbrandsdalsost;Dairy Products;30
+1997-11-20 00:00:00.000;Tunnbröd;Grains/Cereals;44
+1997-11-20 00:00:00.000;Boston Crab Meat;Seafood;40
+1997-11-20 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;28
+1997-11-20 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;15
+1997-11-20 00:00:00.000;Raclette Courdavault;Dairy Products;6
+1997-11-20 00:00:00.000;Lakkalikööri;Beverages;10
+1997-11-21 00:00:00.000;Tofu;Produce;5
+1997-11-21 00:00:00.000;Rogede sild;Seafood;40
+1997-11-21 00:00:00.000;Raclette Courdavault;Dairy Products;25
+1997-11-24 00:00:00.000;Gumbär Gummibärchen;Confections;12
+1997-11-24 00:00:00.000;Nord-Ost Matjeshering;Seafood;30
+1997-11-24 00:00:00.000;Valkoinen suklaa;Confections;20
+1997-11-24 00:00:00.000;Röd Kaviar;Seafood;15
+1997-11-24 00:00:00.000;Chai;Beverages;8
+1997-11-24 00:00:00.000;Gudbrandsdalsost;Dairy Products;3
+1997-11-25 00:00:00.000;Rogede sild;Seafood;4
+1997-11-25 00:00:00.000;Longlife Tofu;Produce;5
+1997-11-25 00:00:00.000;Boston Crab Meat;Seafood;3
+1997-11-26 00:00:00.000;Zaanse koeken;Confections;30
+1997-11-26 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;30
+1997-11-26 00:00:00.000;Ravioli Angelo;Grains/Cereals;14
+1997-11-26 00:00:00.000;Gudbrandsdalsost;Dairy Products;25
+1997-11-27 00:00:00.000;Carnarvon Tigers;Seafood;21
+1997-11-27 00:00:00.000;Inlagd Sill;Seafood;20
+1997-11-27 00:00:00.000;Scottish Longbreads;Confections;6
+1997-11-27 00:00:00.000;Gudbrandsdalsost;Dairy Products;20
+1997-11-27 00:00:00.000;Sasquatch Ale;Beverages;30
+1997-11-27 00:00:00.000;Raclette Courdavault;Dairy Products;7
+1997-11-27 00:00:00.000;Tarte au sucre;Confections;30
+1997-11-27 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;24
+1997-11-28 00:00:00.000;Gumbär Gummibärchen;Confections;20
+1997-11-28 00:00:00.000;Filo Mix;Grains/Cereals;60
+1997-11-28 00:00:00.000;Outback Lager;Beverages;40
+1997-11-28 00:00:00.000;Mascarpone Fabioli;Dairy Products;10
+1997-12-01 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;12
+1997-12-01 00:00:00.000;Schoggi Schokolade;Confections;40
+1997-12-01 00:00:00.000;Ipoh Coffee;Beverages;30
+1997-12-02 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;35
+1997-12-02 00:00:00.000;Rhönbräu Klosterbier;Beverages;18
+1997-12-02 00:00:00.000;Chartreuse verte;Beverages;16
+1997-12-02 00:00:00.000;Zaanse koeken;Confections;30
+1997-12-02 00:00:00.000;Manjimup Dried Apples;Produce;28
+1997-12-02 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;60
+1997-12-03 00:00:00.000;Sir Rodney's Scones;Confections;40
+1997-12-03 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;6
+1997-12-03 00:00:00.000;Guaraná Fantástica;Beverages;20
+1997-12-03 00:00:00.000;Aniseed Syrup;Condiments;20
+1997-12-03 00:00:00.000;Chartreuse verte;Beverages;130
+1997-12-04 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;80
+1997-12-05 00:00:00.000;Chang;Beverages;40
+1997-12-05 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;35
+1997-12-05 00:00:00.000;Scottish Longbreads;Confections;40
+1997-12-05 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;2
+1997-12-08 00:00:00.000;Gustaf's Knäckebröd;Grains/Cereals;4
+1997-12-08 00:00:00.000;Gorgonzola Telino;Dairy Products;50
+1997-12-08 00:00:00.000;Camembert Pierrot;Dairy Products;15
+1997-12-08 00:00:00.000;Flotemysost;Dairy Products;12
+1997-12-08 00:00:00.000;Jack's New England Clam Chowder;Seafood;30
+1997-12-08 00:00:00.000;Filo Mix;Grains/Cereals;15
+1997-12-08 00:00:00.000;Sirop d'érable;Condiments;20
+1997-12-08 00:00:00.000;Tarte au sucre;Confections;15
+1997-12-09 00:00:00.000;Queso Cabrales;Dairy Products;15
+1997-12-10 00:00:00.000;Flotemysost;Dairy Products;16
+1997-12-10 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;18
+1997-12-10 00:00:00.000;Raclette Courdavault;Dairy Products;25
+1997-12-11 00:00:00.000;Alice Mutton;Meat/Poultry;33
+1997-12-11 00:00:00.000;Gorgonzola Telino;Dairy Products;70
+1997-12-11 00:00:00.000;Rhönbräu Klosterbier;Beverages;7
+1997-12-11 00:00:00.000;Gorgonzola Telino;Dairy Products;2
+1997-12-11 00:00:00.000;Louisiana Hot Spiced Okra;Condiments;50
+1997-12-12 00:00:00.000;Ikura;Seafood;6
+1997-12-12 00:00:00.000;Laughing Lumberjack Lager;Beverages;3
+1997-12-15 00:00:00.000;Gorgonzola Telino;Dairy Products;16
+1997-12-15 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;12
+1997-12-15 00:00:00.000;Rogede sild;Seafood;27
+1997-12-15 00:00:00.000;Manjimup Dried Apples;Produce;120
+1997-12-15 00:00:00.000;Singaporean Hokkien Fried Mee;Grains/Cereals;20
+1997-12-16 00:00:00.000;Jack's New England Clam Chowder;Seafood;10
+1997-12-16 00:00:00.000;Pavlova;Confections;20
+1997-12-16 00:00:00.000;Tarte au sucre;Confections;20
+1997-12-16 00:00:00.000;Outback Lager;Beverages;35
+1997-12-16 00:00:00.000;Original Frankfurter grüne Soße;Condiments;15
+1997-12-17 00:00:00.000;Tourtière;Meat/Poultry;3
+1997-12-17 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;20
+1997-12-17 00:00:00.000;Longlife Tofu;Produce;35
+1997-12-17 00:00:00.000;Gorgonzola Telino;Dairy Products;1
+1997-12-18 00:00:00.000;Gorgonzola Telino;Dairy Products;10
+1997-12-18 00:00:00.000;Côte de Blaye;Beverages;5
+1997-12-18 00:00:00.000;Inlagd Sill;Seafood;30
+1997-12-18 00:00:00.000;Chartreuse verte;Beverages;2
+1997-12-18 00:00:00.000;Mozzarella di Giovanni;Dairy Products;30
+1997-12-18 00:00:00.000;Ikura;Seafood;10
+1997-12-18 00:00:00.000;Rhönbräu Klosterbier;Beverages;10
+1997-12-19 00:00:00.000;Northwoods Cranberry Sauce;Condiments;30
+1997-12-19 00:00:00.000;Nord-Ost Matjeshering;Seafood;15
+1997-12-19 00:00:00.000;Rhönbräu Klosterbier;Beverages;42
+1997-12-19 00:00:00.000;Chang;Beverages;15
+1997-12-19 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;20
+1997-12-22 00:00:00.000;Teatime Chocolate Biscuits;Confections;50
+1997-12-22 00:00:00.000;Rhönbräu Klosterbier;Beverages;40
+1997-12-22 00:00:00.000;Carnarvon Tigers;Seafood;30
+1997-12-22 00:00:00.000;Steeleye Stout;Beverages;15
+1997-12-22 00:00:00.000;Vegie-spread;Condiments;30
+1997-12-22 00:00:00.000;Scottish Longbreads;Confections;18
+1997-12-22 00:00:00.000;Uncle Bob's Organic Dried Pears;Produce;3
+1997-12-22 00:00:00.000;Gnocchi di nonna Alice;Grains/Cereals;20
+1997-12-23 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;14
+1997-12-23 00:00:00.000;Jack's New England Clam Chowder;Seafood;20
+1997-12-23 00:00:00.000;Chang;Beverages;10
+1997-12-23 00:00:00.000;Tourtière;Meat/Poultry;3
+1997-12-23 00:00:00.000;Scottish Longbreads;Confections;15
+1997-12-24 00:00:00.000;Jack's New England Clam Chowder;Seafood;14
+1997-12-24 00:00:00.000;Filo Mix;Grains/Cereals;8
+1997-12-24 00:00:00.000;Tofu;Produce;15
+1997-12-24 00:00:00.000;Tourtière;Meat/Poultry;6
+1997-12-24 00:00:00.000;Pavlova;Confections;65
+1997-12-24 00:00:00.000;Alice Mutton;Meat/Poultry;35
+1997-12-25 00:00:00.000;Gumbär Gummibärchen;Confections;21
+1997-12-25 00:00:00.000;Gula Malacca;Condiments;10
+1997-12-25 00:00:00.000;Wimmers gute Semmelknödel;Grains/Cereals;35
+1997-12-25 00:00:00.000;Gudbrandsdalsost;Dairy Products;24
+1997-12-25 00:00:00.000;Queso Cabrales;Dairy Products;20
+1997-12-26 00:00:00.000;Tarte au sucre;Confections;2
+1997-12-26 00:00:00.000;Mozzarella di Giovanni;Dairy Products;10
+1997-12-26 00:00:00.000;Konbu;Seafood;20
+1997-12-26 00:00:00.000;Guaraná Fantástica;Beverages;20
+1997-12-26 00:00:00.000;Raclette Courdavault;Dairy Products;25
+1997-12-26 00:00:00.000;Queso Cabrales;Dairy Products;50
+1997-12-26 00:00:00.000;Manjimup Dried Apples;Produce;10
+1997-12-26 00:00:00.000;Tourtière;Meat/Poultry;7
+1997-12-29 00:00:00.000;Alice Mutton;Meat/Poultry;40
+1997-12-29 00:00:00.000;Thüringer Rostbratwurst;Meat/Poultry;20
+1997-12-29 00:00:00.000;Nord-Ost Matjeshering;Seafood;25
+1997-12-29 00:00:00.000;Manjimup Dried Apples;Produce;30
+1997-12-29 00:00:00.000;Pâté chinois;Meat/Poultry;60
+1997-12-29 00:00:00.000;Tarte au sucre;Confections;5
+1997-12-30 00:00:00.000;Teatime Chocolate Biscuits;Confections;24
+1997-12-30 00:00:00.000;NuNuCa Nuß-Nougat-Creme;Confections;15
+1997-12-30 00:00:00.000;Raclette Courdavault;Dairy Products;15
+1997-12-30 00:00:00.000;Ikura;Seafood;36
+1997-12-30 00:00:00.000;Rössle Sauerkraut;Produce;24
+1997-12-30 00:00:00.000;Maxilaku;Confections;4
+1997-12-30 00:00:00.000;Sasquatch Ale;Beverages;10
+1997-12-30 00:00:00.000;Côte de Blaye;Beverages;10
+1997-12-31 00:00:00.000;Chang;Beverages;20
+1997-12-31 00:00:00.000;Louisiana Fiery Hot Pepper Sauce;Condiments;2
+1997-12-31 00:00:00.000;Longlife Tofu;Produce;15
+1997-12-31 00:00:00.000;Boston Crab Meat;Seafood;1
